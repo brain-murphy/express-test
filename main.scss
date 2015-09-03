@@ -1,0 +1,18 @@
+//a test sass file
+
+$primary-color: #111;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  color:$primary-color;
+}
+
+.menu-item {
+  float:left;
+  display: inline-block;
+  margin-right: 20px;
+}

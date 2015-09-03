@@ -1,0 +1,19 @@
+---
+title: Resume Archive
+layout: default
+---
+
+# Resume Archive
+
+I'm keeping a backlog of all of my past resumes. --Could be interesting to look
+back upon it later.
+
+## most recent at the top.
+
+#### [August 2015](res/August2015.pdf)
+
+#### [July 2015](res/July2015.pdf)
+
+#### [November 2014](res/November2014.pdf)
+
+#### [August 2014](res/August2014.pdf)

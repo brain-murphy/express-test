@@ -1,0 +1,110 @@
+---
+title: Bio
+layout: default
+---
+
+# Brian Murphy
+
+## Bio
+
+I am not sure whether this page will be purely 'bio'graphical; it will certainly
+focus on my identity as a computer scientist or, if that sounds too pretentious,
+software developer. Let's just call it my computer science biography.
+
+## Education
+
+I am a currently studying computer science at Georgia Tech.
+No, I mean right now -- I am currently sitting in a computer science class as
+I write. Georgia Tech classes are interesting and challenging, but (pardon the
+cliché) most of my education has occurred outside the classroom.
+
+The College of Computing has kept me contentedly busy with their large spread of
+unusually specialized clubs. Because of my initial Android bent,
+my primary focus is the GITMAD club, or the Georgia Institute of Technology
+Mobile Application Development club. I should note that I was recently elected
+president of GITMAD, but I won't have anything concrete to say about that until
+my first semester in that position is underway; we are going to try a different
+approach to the club than was taken before, so wish us luck!
+
+Additionally, I am a regular at GT Web Development club's hackathons, and take
+what amounts to an additional three credit hours of CS lectures each week in the form of
+GT Programming Team meetings.
+
+## Skills
+
+I began programming in high school, for the Android platform. Because of this,
+I became a competent Java developer, which has been a useful tool in academia
+as well as in side-projects. Knowledge of Java syntax biased me towards C#, which
+has made the .NET platform my favorite technology, as of the time of writing.
+Although using ASP.NET is a bit overkill for most of my web development projects,
+I prefer it because its conventions force good project management practices. However, since
+coming to college, I have picked up a bit of a JavaScript addiction. Because its
+use in hackathons and side projects is nearly ubiquitous, I started using in
+order to fit in, but I now truly understand its allure. I now see language features
+where I used to see design oversights. You could say that I've been doing lines
+of JavaScript ever since.
+
+I use Git and GitHub/Bitbucket enthusiastically. Utility aside, doesn't it feel good
+to push a commit and close an issue? In fact, this very website is a GitHub page!
+You can check out my profile by clicking the blue tab at the top of this page.
+
+At the behest of several of my professors, I began using Linux whenever practical,
+and have no regrets about the matter. I wouldn't call myself a linux hacker yet, but beside my gains
+of marginally increased productivity lies my improved knowledge of how client software,
+the operating system, and the machine interact.
+
+## Interests
+
+I find that my professional interests mostly encompass subjects with which I
+do not have a lot of prior knowledge. Thus, exploring my interests keeps them
+changing. I often find myself getting 'nerd sniped' by frameworks that I've not
+heard of before.
+
+[![by Randall Munroe](http://imgs.xkcd.com/comics/nerd_sniping.png)](http://xkcd.com/356/)
+
+More broadly, I enjoy mobile development and web development, as those types
+of projects tend to be very approachable and fun for small teams. As a student
+working on small projects, most of my experience is in these areas.
+
+Lately, I have become interested in the mix of scientific and, humanistic thought
+that encompasses the study of artificial intelligence. Reading and thinking on the
+subject has led me to [literature that has significantly altered my perspective
+of the world](http://www.amazon.com/Sapiens-A-Brief-History-Humankind/dp/0062316095).
+ I am currently pursuing a curriculum focus in artificial intelligence
+as part of Georgia Tech's [Threads](http://www.cc.gatech.edu/threads-better-way-learn-cs)
+system.
+
+Any passage about my interests would be a lie by omission if it
+did not make mention of music. Although I can find an artist to enjoy
+in most genres, I have lately been exploring the genres of Neo-Folk/Folk-Rock
+and Indie Pop. I enjoy modern folk music for the [particular emotional tone](https://www.youtube.com/watch?v=PcKnlhL97rs)
+ that acoustic instruments excel in creating and its [lyrical density](https://www.youtube.com/watch?v=Bu21mCisNn0).
+Indie is great because it is brash and bold; maybe I'm just buying into the concept
+of indie music too much, but it seems as though indie pop artists make musical
+decisions based more on what they think sounds hot than on what consumers have
+made popular lately. It produces a lot of [strange stuff](https://www.youtube.com/watch?v=WWNIajNpsAA),
+ but is often quite [compelling melodically](https://www.youtube.com/watch?v=SpbN7pv2fiA),
+ and [its originality](https://www.youtube.com/watch?v=H2GMQShkJYM) is refreshing.
+
+## Mission Statement
+
+In the next few years, I would like to gain depth in formal Computer Science
+knowledge, and breadth in practical Computer Science skills. I have found that
+I am interested not only in 'how to make a computer do things', but also in 'how
+a computer does things'. I think that this knowledge base will provide a better
+platform for me to pragmatically and creatively author the best solutions I can.
+
+Additionally, I want to hone the communicational skills that facilitate good
+teamwork. [With some exceptions](http://www.qwantz.com/comics/comic2-2857.png),
+computers don't make mistakes; programmers make mistakes, and often because of
+bad project management and communication practices. I feel confident that my
+education will provide me with more than enough technical knowledge to be a good
+software developer; my challenge will be to work through the hard-learned
+lessons of practical software development that only experience can teach.
+
+--And always, I want to learn more about the world (universe?). The more people I
+meet, the more I am convinced that truly great minds are not effective because of
+their horsepower alone; they are effective because of the large spectrum of information and observations
+that they can synthesize into their perspective. I want such a perspective for
+my life as well as for my work, so I don't limit my learning to only technical
+topics -- I allow my curiosity to guide my intellectual activities.

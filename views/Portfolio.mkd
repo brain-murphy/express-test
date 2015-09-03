@@ -1,0 +1,44 @@
+---
+title: Portfolio
+layout: default
+---
+# Portfolio
+
+*I consider all of my projects to be works in progress, whether I will ever
+have the time to get back to them or not.*
+
+## TapTools.net
+
+TapTools.net is a website I wrote for my App development studio project back in high school.
+It is written on an ASP.NET platform using C#. However, it does not
+use a whole lot of backend code. In that, it does not demonstrate the power of
+the ASP.NET platform very well, but it was fun playground for some
+design ideas I had been toying with. Besides... at that point we really needed
+a new website.
+
+[view site](http://www.taptools.net)
+
+One caveat: view the desktop version, not the mobile version. You'll thank me later.
+I may get back to the mobile site's design at some point, just as a point of pride.
+
+## CrowdSurf
+
+*"CrowdSurf is the love child of StackOverflow and Yik Yak"*
+
+-- That was one of the descriptions we gave for this Android app when our team
+submitted it to the Fall 2014 HackNC hackathon. The app is a question-and-answer
+service that functions like StackOverflow, but filtered to the user's location.
+This allows users to find information about their current location or ask question in a highly specific manner.
+We used an Azure RESTful API as a back end to our Android front end.  
+
+[view on GitHub](https://github.com/brain-murphy/crowdsurf)
+
+## Auto Pilot
+
+Auto Pilot is an Android application that a few friends and I put together at
+the HackPrinceton hackathon. Although the app's purpose is more comedic than
+practical, it serves to automate boring text message conversations. By reading
+the user's text message history and forming a probabilistic model of how the
+user texts, the app automatically replies to selected contacts.
+
+[view on GitHub](https://github.com/brain-murphy/autopilot)
