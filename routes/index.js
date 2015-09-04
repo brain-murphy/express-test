@@ -1,5 +1,4 @@
 var express = require('express');
-var url = require('url');
 var router = express.Router();
 var md = require('marked');
 var fs = require('fs');
@@ -24,7 +23,7 @@ router.get('/*', function(req, res, next) {
       return next();
     }
 
-    res.render('index', { content: md(data.toString()) });
+    res.render('layout', { content: md(data.toString()) });
   });
 
 });
